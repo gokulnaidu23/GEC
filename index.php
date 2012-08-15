@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
 
 
-<title>Gujarat Ecology Commision</title>
+<title>Gujarat Ecology Commision!!</title>
 <script type="text/javascript">
 $(document).ready(function() {
                 $('.dropdown').mouseenter(function(){
